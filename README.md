@@ -11,9 +11,9 @@
 # Hi there 👋, I'm Lei!
 
 ## 🚀 About Me
-**Full-Stack Engineer, Open-Source Nuxt.js Artist.**
+**Front-end developer, Open-Source Nuxt.js Artist.**
 
-**全栈工程师，Nuxt.js。**
+**前端开发，Nuxt.js。**
 
 I work on Nuxt.js and Node.js projects, sharing knowledge in these areas.
 
@@ -29,7 +29,7 @@ I work on Nuxt.js and Node.js projects, sharing knowledge in these areas.
 
 ## 💡 My Products
 - [**Image Watermark Tool**](https://watermark.aicompasspro.com/)
-- [**AI 导航**](https://aicompasspro.com)
+- [**爱盼-网盘资源搜索**](https://www.kkwnhub.com)
 
 ## 📫 Contact Me
 - **Email:** [ahagwybwqs@gmail.com](mailto:ahagwybwqs@gmail.com)
