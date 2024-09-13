@@ -28,8 +28,8 @@ I work on Nuxt.js and Node.js projects, sharing knowledge in these areas.
 </a>
 
 ## 💡 My Products
-- [**Image Watermark Tool**](https://watermark.aicompasspro.com/)
-- [**爱盼-网盘资源搜索**](https://www.kkwnhub.com)
+- [**Image Watermark Tool**](https://watermark.aipan.me/)
+- [**爱盼-网盘资源搜索**](https://aipan.me)
 
 ## 📫 Contact Me
 - **Email:** [ahagwybwqs@gmail.com](mailto:ahagwybwqs@gmail.com)
