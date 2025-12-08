@@ -1,11 +1,7 @@
 # Hi there 👋, I'm Lei!
 
 ## 🚀 About Me
-** AI Vibe Coding Artist.**
-
-<a href="https://github.com/unilei" style="max-width:50%;" >
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unilei&layout=compact&langs_count=8">
-</a>
+** AI Vibe Coding Artist. **
 
 ## 💡 My Products
 - [**Image Watermark Tool**](https://watermark.aipan.me/)
