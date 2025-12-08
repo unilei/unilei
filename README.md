@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Lei!
 
 ## 🚀 About Me
-** AI Vibe Coding Artist. **
+- AI Vibe Coding Artist.
 
 ## 💡 My Products
 - [**Image Watermark Tool**](https://watermark.aipan.me/)
